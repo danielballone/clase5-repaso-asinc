@@ -1,0 +1,17 @@
+.card-product {
+    width: 20%;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+.card-product img {
+    width: 50%;
+}
+
+#poke-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 30px;
+}
